@@ -9,7 +9,7 @@ export default function App() {
     </View>
   );
 }
-
+testing ,y aksdhaklshd
 const styles = StyleSheet.create({
   container: {
     flex: 1,
